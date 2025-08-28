@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: KnightOne
-Template URL: https://bootstrapmade.com/knight-simple-one-page-bootstrap-template/
+Template Name: Dewi
+Template URL: https://bootstrapmade.com/dewi-free-multi-purpose-html-template/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
